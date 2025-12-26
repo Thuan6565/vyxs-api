@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "vyxs-api",
+	"upload_source_maps": true,
+	"observability": {
+		"enabled": true
+	},
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_name": "vyxs-api",
+			"database_id": "ba06c7ef-8b9c-4a12-affe-e1bdddfc590a"
+		}
+	]
+}
